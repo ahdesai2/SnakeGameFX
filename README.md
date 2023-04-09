@@ -16,3 +16,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+
+Our project was to make a Snake game in which the user/player can operate using their keyboard to make the snake eat the food and achieve the objective of the game. The user can use the keyboard as a way of direction and can make the snake go UP, DOWN, LEFT OR RIGHT. If the snake goes out of the bounds then it will be game over.
